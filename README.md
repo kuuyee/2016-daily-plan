@@ -10,3 +10,5 @@
   * [LLVM Tutorial Chinese version(中文版)](http://kaleidoscope-llvm-tutorial-zh-cn.readthedocs.org/zh_CN/latest/)
 4. **[3月1日]()**
   * [IDEA设置报错自动格式化go代码](http://stackoverflow.com/questions/33774950/execute-gofmt-on-file-save-in-intellij)
+5. **[4月13日]()**
+  * [rhel操作系统版本号与内核版本号的对应关系](https://access.redhat.com/articles/3078)
